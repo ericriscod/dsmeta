@@ -9,7 +9,7 @@ function Header() {
                 <img src={logo} alt="DSMeta"/>
                     <h1>DSMeta</h1>
                     <p>Desenvolvido por
-                        <a href="https://www.instagram.com/ericris.pr/">@ericris.cod</a>
+                        <a href="https://github.com/ericriscod/dsmeta" target="_blank"> @ericris.cod</a>
                     </p>
             </div>
         </header>
